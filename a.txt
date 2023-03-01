@@ -2,3 +2,4 @@ Lorem ipsum
 Ipsum Lorem
 Added a change
 Another change
+One more line

@@ -1,2 +1,3 @@
 this is file b
 line 2 squash merger
+line 3 tag

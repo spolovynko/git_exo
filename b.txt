@@ -1,0 +1,2 @@
+this is file b
+line 2 squash merger

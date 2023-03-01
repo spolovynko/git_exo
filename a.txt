@@ -1,4 +1,6 @@
 Lorem ipsum
 Ipsum Lorem
 Added a change
-Another changegit
+======
+Another change
+One more line

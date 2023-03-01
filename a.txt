@@ -1,6 +1,11 @@
 Lorem ipsum
 Ipsum Lorem
 Added a change
+<<<<<<< HEAD
 ======
 Another change
 One more line
+=======
+Another change
+One more line
+>>>>>>> feat
